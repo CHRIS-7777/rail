@@ -1,0 +1,4 @@
+"scripts": {
+  "build": "echo no build",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
