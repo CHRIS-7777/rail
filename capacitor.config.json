@@ -1,6 +1,6 @@
 {
   "appId": "com.chris.railpro",
   "appName": "Rail Pro",
-  "webDir": ".",
+  "webDir": "www",
   "bundledWebRuntime": false
 }
